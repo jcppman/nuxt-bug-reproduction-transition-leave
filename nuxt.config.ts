@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    '/': {},
-    '/client': { ssr: false }
+    '/client': { ssr: false },
+    '/client/contact': { ssr: false }
   }
 });

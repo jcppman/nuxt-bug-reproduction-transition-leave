@@ -1,5 +1,6 @@
 <template>
   <div>
+    Client Side Rendering<br />
     CONTACT PAGE<br />
     <div>
       <NuxtLink to="/client/">Go to Main</NuxtLink>
